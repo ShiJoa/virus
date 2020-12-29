@@ -1,0 +1,25 @@
+﻿  door.cpp
+F:\code\horse\door\door\door.cpp(37,10): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“LPWSTR”
+F:\code\horse\door\door\door.cpp(37,10): message : 请考虑在格式字符串中使用“%ls”
+F:\code\horse\door\door\door.cpp(37,10): message : 请考虑在格式字符串中使用“%lls”
+F:\code\horse\door\door\door.cpp(37,10): message : 请考虑在格式字符串中使用“%Ls”
+F:\code\horse\door\door\door.cpp(37,10): message : 请考虑在格式字符串中使用“%ws”
+F:\code\horse\door\door\door.cpp(37,10): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 2 拥有了类型“LPWSTR”
+F:\code\horse\door\door\door.cpp(37,10): message : 请考虑在格式字符串中使用“%ls”
+F:\code\horse\door\door\door.cpp(37,10): message : 请考虑在格式字符串中使用“%lls”
+F:\code\horse\door\door\door.cpp(37,10): message : 请考虑在格式字符串中使用“%Ls”
+F:\code\horse\door\door\door.cpp(37,10): message : 请考虑在格式字符串中使用“%ws”
+F:\code\horse\door\door\door.cpp(40,10): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“LPWSTR”
+F:\code\horse\door\door\door.cpp(40,10): message : 请考虑在格式字符串中使用“%ls”
+F:\code\horse\door\door\door.cpp(40,10): message : 请考虑在格式字符串中使用“%lls”
+F:\code\horse\door\door\door.cpp(40,10): message : 请考虑在格式字符串中使用“%Ls”
+F:\code\horse\door\door\door.cpp(40,10): message : 请考虑在格式字符串中使用“%ws”
+  regread.cpp
+F:\code\horse\door\door\regread.cpp(30,11): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“TCHAR *”
+F:\code\horse\door\door\regread.cpp(30,11): message : 请考虑在格式字符串中使用“%ls”
+F:\code\horse\door\door\regread.cpp(30,11): message : 请考虑在格式字符串中使用“%lls”
+F:\code\horse\door\door\regread.cpp(30,11): message : 请考虑在格式字符串中使用“%Ls”
+F:\code\horse\door\door\regread.cpp(30,11): message : 请考虑在格式字符串中使用“%ws”
+  regwrite.cpp
+  正在生成代码...
+  door.vcxproj -> F:\code\horse\door\Debug\door.exe
